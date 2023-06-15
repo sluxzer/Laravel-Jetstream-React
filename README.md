@@ -8,6 +8,11 @@ This is a minimum Setup of Laravel Jetstream React with Typescript, this reposit
 - composer install
 - npm install
 
+## Feature
+
+- Laravel Excel by https://docs.laravel-excel.com/3.1/
+- Permissions & Role by Laratrust https://laratrust.santigarcor.me/docs/8.x/installation.html
+
 ## How we Make this template
 
 - composer create-project laravel/laravel myapp
