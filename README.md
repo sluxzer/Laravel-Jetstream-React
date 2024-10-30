@@ -19,3 +19,6 @@ This is a minimum Setup of Laravel Jetstream React with Typescript, this reposit
 - composer require laravel/jetstream
 - php artisan jetstream:install inertia (optional --teams --ssr --dark)
 - npx laravel-jetstream-react@latest install
+
+# Tools
+Please use valet for easy setup
